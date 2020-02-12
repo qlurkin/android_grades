@@ -17,3 +17,7 @@
 - Add Button to Title Fragment
 - Add listener to Button
 - Create data class for Student
+- Add ViewModel to Student List Fragment
+- Add RecyclerView to Student List Fragment
+- Add Observer to Student List Fragment that observe Live Data in ViewModel and update Adapter for RecyclerView
+
